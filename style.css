@@ -20,3 +20,11 @@ img {
 a {
     color: cornflowerblue;
 }
+
+.recipe-list {
+    text-align: center;
+    margin: 7px auto;
+    border: 5px solid lightsteelblue;
+    padding: 5px;
+    width: 300px;
+}
